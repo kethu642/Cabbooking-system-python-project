@@ -1,0 +1,3 @@
+avinash|0258963|Delhi|Hayderabad|10-11-2022|Luxury
+kishan|98205235|Chennai|Guwahati|1-1-2020|Luxury
+Bharat|9876543210|Delhi|Delhi|5-7-2022|Economy

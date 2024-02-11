@@ -1,0 +1,6 @@
+f=open('tfile.txt','w')
+f.writelines("hello\n")
+f.close()
+f=open("tfile.txt","r")
+print(f.readlines())
+f.close()
